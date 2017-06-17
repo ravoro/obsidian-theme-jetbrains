@@ -321,6 +321,11 @@
         <option name="BACKGROUND" value="804000" />
       </value>
     </option>
+    <option name="GQL_ID">
+      <value>
+        <option name="FOREGROUND" value="e0e2e4" />
+      </value>
+    </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="678cb1" />
