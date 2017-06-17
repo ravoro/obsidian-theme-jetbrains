@@ -386,6 +386,31 @@
         <option name="FOREGROUND" value="e0e2e4" />
       </value>
     </option>
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="678cb1" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="ec7600" />
+      </value>
+    </option>
+    <option name="HTML_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="ffcd22" />
+      </value>
+    </option>
+    <option name="HTML_TAG">
+      <value>
+        <option name="FOREGROUND" value="93c763" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="93c763" />
+      </value>
+    </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="678cb1" />
