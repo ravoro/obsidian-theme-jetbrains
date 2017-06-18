@@ -436,34 +436,58 @@
         <option name="FOREGROUND" value="93c763" />
       </value>
     </option>
+    <option name="MARKDOWN_EXPLICIT_LINK">
+      <value>
+        <option name="FOREGROUND" value="e0e2e4" />
+      </value>
+    </option>
     <option name="MARKDOWN_HEADER_LEVEL_1">
       <value>
-        <option name="FOREGROUND" value="a082bd" />
+        <option name="FOREGROUND" value="678cb1" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_2">
       <value>
-        <option name="FOREGROUND" value="a082bd" />
+        <option name="FOREGROUND" value="678cb1" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_3">
       <value>
-        <option name="FOREGROUND" value="a082bd" />
+        <option name="FOREGROUND" value="678cb1" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_4">
       <value>
-        <option name="FOREGROUND" value="a082bd" />
+        <option name="FOREGROUND" value="678cb1" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_5">
       <value>
-        <option name="FOREGROUND" value="a082bd" />
+        <option name="FOREGROUND" value="678cb1" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_6">
       <value>
-        <option name="FOREGROUND" value="a082bd" />
+        <option name="FOREGROUND" value="678cb1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_MARKER">
+      <value>
+        <option name="FOREGROUND" value="678cb1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_LINK_DESTINATION">
+      <value>
+        <option name="FOREGROUND" value="e0e2e4" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_LIST_ITEM">
+      <value />
+    </option>
+    <option name="MARKDOWN_LIST_MARKER">
+      <value>
+        <option name="FOREGROUND" value="93c763" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
